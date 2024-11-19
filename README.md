@@ -1,16 +1,21 @@
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img height="120px" style="object-fit: cover; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" alt="Hello, I'm [Your Name]" src="your_image.png" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Explore+Ancient+Civilizations;Interactive+Animations+with+GSAP;Web+Design+Meets+History" />
-</p>
 
-<br />
+✨ Ancient Civilization Website 🌍🏺
 
----
+Welcome to the Ancient Civilization project! Dive into the world of rich cultures, timeless monuments, and groundbreaking innovations of our ancestors.
+This project combines technology and creativity to bring history to life! 🌟
+
+
+-----------------------------------------------------------------------------------------------------------
+🗺️ Overview
+This website is a dynamic exploration of ancient civilizations, highlighting their:
+
+📜 Historical Monuments
+🏺 Art and Culture
+🛠️ Technological Advancements
+
+Animated and Interactive Features make history engaging and exciting for users of all ages!
+---------------------------------------------------------------------------------------------------------
 
 ### 🏺 About the Project
 
@@ -18,7 +23,7 @@
 - 🎨 Built with **HTML**, **CSS**, **JavaScript**, and **GSAP animations** to bring history to life.  
 - 🏛️ Learn about the wonders of ancient Greece, Egypt, Rome, and more.
 
----
+----------------------------------------------------------------------------------------------------------
 
 ### 🛠️ Tech Stack
 
@@ -29,17 +34,17 @@
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
 </p>
 
----
+----------------------------------------------------------------------------------------------------------------
 
 ### 📸 Screenshots
 
 #### 🌌 Landing Page
-![Landing Page](https://via.placeholder.com/800x400)
+![Landing Page]([https://via.placeholder.com/800x400](https://github.com/NitSanghani111/ancient/issues/1#issue-2673032070))
 
 #### 🏺 Interactive Sections
-![Interactive Section](https://via.placeholder.com/800x400)
+![Interactive Section]([https://via.placeholder.com/800x400](https://github.com/NitSanghani111/ancient/issues/1#issuecomment-2486375356))
 
----
+--------------------------------------------------------------------------------------------------------------------
 
 ### 🚀 Getting Started
 
